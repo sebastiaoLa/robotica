@@ -24,5 +24,9 @@ for i in range(3000):
         biggerBlue = raw[2]
     if smallerBlue >raw[2]:
         smallerBlue = raw[2]
-    
+
+
+print ("Red:",biggerRed,smallerRed)    
+print ("Green:",biggerGreen,smallerGreen)
+print ("Blue:", biggerBlue,smallerBlue)
 
